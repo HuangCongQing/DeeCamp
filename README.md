@@ -1,5 +1,5 @@
 # DeeCamp
-DeeCamp笔试题
+DeeCamp笔试题(written examination)
 
 @ [ChungKing](https://github.com/HuangCongQing/DeeCamp)，若fork或star请注明来源
 
